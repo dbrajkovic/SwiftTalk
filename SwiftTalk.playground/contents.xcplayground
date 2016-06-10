@@ -8,5 +8,7 @@
         <page name='Operators'/>
         <page name='Custom Operators'/>
         <page name='Optionals'/>
+        <page name='Live Coding'/>
+        <page name='Tools &amp; Resources'/>
     </pages>
 </playground>
