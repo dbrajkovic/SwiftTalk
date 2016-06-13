@@ -1,8 +1,11 @@
 //: [Previous](@previous)
 
-
-/*: * With inheritance, you define _what your classes are_.
-    * With traits you define _what classes can do_.
+/*: 
+ 
+ ## Protocols & Protocol Extensions
+ * With inheritance, you define _what your classes are_.
+ * With traits you define _what classes can do_.
+ 
 */
 
 import Foundation
