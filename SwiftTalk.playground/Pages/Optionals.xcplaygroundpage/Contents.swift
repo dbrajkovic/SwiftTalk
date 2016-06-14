@@ -14,7 +14,5 @@ var techTalkAttendees: [String]?
 print("\(techTalkAttendees?.count) attended today.")
 
 
-import UIKit
-
 
 //: [Next](@next)
