@@ -1,6 +1,6 @@
 /*:
  [Previous](@previous)
- # Enumeratoions
+ # Enumerations
  ## Defining
  */
 enum CompassPoint {
@@ -34,5 +34,4 @@ enum Barcode {
 enum Planet: Int {
     case mercury = 1, venus, earth, mars, jupiter, saturn, uranus, neptune
 }
-
 //: [Next](@next)

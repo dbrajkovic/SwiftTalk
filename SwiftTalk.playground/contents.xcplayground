@@ -16,6 +16,7 @@
         <page name='Sets'/>
         <page name='Functions'/>
         <page name='Enumerations'/>
+        <page name='Classes &amp; Structures'/>
         <page name='Optionals'/>
         <page name='Inheritence vs Traits'/>
         <page name='Live Coding Intro'/>
