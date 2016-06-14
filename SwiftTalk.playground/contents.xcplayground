@@ -8,6 +8,8 @@
         <page name='Operators'/>
         <page name='Custom Operators'/>
         <page name='Optionals'/>
+        <page name='Inheritence vs Traits'/>
+        <page name='Live Coding Intro'/>
         <page name='Live Coding'/>
         <page name='Tools &amp; Resources'/>
     </pages>
