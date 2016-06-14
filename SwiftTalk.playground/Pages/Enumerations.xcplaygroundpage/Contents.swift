@@ -10,7 +10,7 @@ enum CompassPoint {
     case west
 }
 
-var directionToHead = CompassPoint.south
+var directionToHead = CompassPoint.west
 
 switch directionToHead {
 case .north:
@@ -20,7 +20,7 @@ case .south:
 case .east:
     print("Where the sun rises")
 case .west:
-    print("Where the skies are blue")
+    print("Where the skies are blue \(directionToHead)")
 }
 
 // ## Associated Values

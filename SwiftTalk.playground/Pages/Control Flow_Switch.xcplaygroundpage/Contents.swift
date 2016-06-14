@@ -1,7 +1,6 @@
 /*:
  [Previous](@previous)
  # Switch Flow
- ## While
  */
 let someCharacter: Character = "z"
 switch someCharacter {

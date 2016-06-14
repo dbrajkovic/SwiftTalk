@@ -8,8 +8,8 @@ integerNames[12] = "twelve"
 
 var airports = ["ORD": "Chicago-O'Hare", "LAX": "Los Angeles"]
 
-// ### Modifying values in an array
+// ### Modifying values in a dictionary
 
-// ## Interating over an array
+// ## Interating over a dictionary
 
 //: [Next](@next)

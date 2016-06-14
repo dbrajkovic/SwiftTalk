@@ -9,7 +9,7 @@ jerseyNumbers.append(22)
 
 jerseyNumbers = Array(count: 3, repeatedValue: 99)
 
-var carNumbers: [Int] = [23, 32, 60]
+var carNumbers: [Double] = [23, 32, 60]
 var shoppingList = ["Eggs", "Milk"]
 
 // ### Accessing and Modifying an array

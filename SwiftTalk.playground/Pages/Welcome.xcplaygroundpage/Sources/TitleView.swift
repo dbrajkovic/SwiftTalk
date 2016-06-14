@@ -9,7 +9,7 @@ public struct Title {
         label.numberOfLines = 2
         label.textAlignment = .Center
         label.center = titleView.center
-        label.text = "\nCode Swift(ly)"
+        label.text = "\nCode swift."
         label.font = UIFont(name: "Times", size: 160.0)
         titleView.addSubview(label)
     }

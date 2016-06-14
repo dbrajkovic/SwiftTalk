@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 //: # Types
 //: ## Optionals
-var hoursSlept: Double? = 1
+var hoursSlept: Double?
 let response: String
 if let sleepingHours = hoursSlept {
     response = "I slept for \(sleepingHours) hour\(sleepingHours > 1 ? "s" : "" ) last night."
